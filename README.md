@@ -1,3 +1,5 @@
+![2](https://github.com/AhmedAElghareeb/Electricity-Bills/assets/112869283/e990ada9-08c8-43bd-a7f7-724977727577)
+![1](https://github.com/AhmedAElghareeb/Electricity-Bills/assets/112869283/70e8f821-7251-4d90-be3d-90c22d96ec87)
 # electric_cal
 
 A new Flutter project.
